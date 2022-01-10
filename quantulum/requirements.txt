@@ -1,0 +1,4 @@
+quantulum3
+stemming
+pandas
+openpyxl
